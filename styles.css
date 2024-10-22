@@ -1,0 +1,45 @@
+body{
+	
+	background-color: lightgrey;
+}
+h1{
+	background-color: orange;
+	text-align: center;
+	font-family: fantasy;
+	border-radius: 20px;
+}
+section{
+	margin: 0px 200px 10px 200px;
+	font-family: initial;
+	background-color: navajowhite;
+}
+
+h3{
+	background-color: orange;
+	text-align: center;
+	font-family: initial;
+	border-radius: 20px;
+}
+
+h4{
+	background-color: orange;
+	font-family: initial;
+	border-radius: 20px;
+}
+p{
+	font-family: initial;
+
+}
+ul{
+	font-family: initial;
+	color: black;
+
+}
+h2{
+	font-family: initial;
+	border-radius: 20px;
+	background-color: orange;
+}
+nav{
+	text-align: center;
+}
